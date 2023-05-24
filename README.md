@@ -35,4 +35,4 @@ O Habits é um app para ajudar a rastrear os hábitos do dia a dia.
 
 ## 🏷️ Layout
 
-- [Visite o projeto no figma](https://www.figma.com/file/NW1QxxjH115cVO7QSe3zK3/Habits-(e)-(Community)?type=design&node-id=75%3A128&t=aJyGqQdhHYX29oBN-1)
+- [Visite o projeto no figma](<https://www.figma.com/file/NW1QxxjH115cVO7QSe3zK3/Habits-(e)-(Community)?type=design&node-id=75%3A128&t=aJyGqQdhHYX29oBN-1>)
